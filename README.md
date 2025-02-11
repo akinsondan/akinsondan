@@ -5,5 +5,5 @@
 - 📫 How to reach me: akinsondan@gmail.com
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/gbolahanakintunde/)
+- [Portfolio](AkinGB.github.io)
